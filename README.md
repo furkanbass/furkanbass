@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @furkanbass
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Mobile Automation Testing.
 - 💞️ I’m looking to collaborate on Health, Finance and Software Engineering projects.
 - 💬 Ask me about **Git-Github, Java, JDBC, Selenium, SDLC, STLC, Java Lambda, SQL, Cucumber**
