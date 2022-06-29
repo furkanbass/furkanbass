@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 ## My Vector Snake eating my contribution graph &nbsp;&nbsp;  🌱&nbsp; 👾
 ![snake gif](https://github.com/tugbayalcin/tugbayalcin/blob/output/github-contribution-grid-snake.gif)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tugbayalcin" alt="tugbayalcin" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkanbass" alt="furkanbass" /></a> </p>
 
 <p> &nbsp; </p> 
 <p> &nbsp; </p>
@@ -35,8 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/furkanbass](https://github.com/furkanbass)
-
-- <p> &nbsp; </p>
+<p> &nbsp; </p>
 
 
 
