@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h1 align="center"> Hi Alien 💁🏻‍♀️ </h1>
+<h1 align="center"> Hi Alien 👨‍💻 </h1>
 <h2 align="center"> Welcome To My Coding World 👩🏻‍💻 </h2>
 <p> &nbsp; </p>
 
