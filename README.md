@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <p> &nbsp; </p>
 
 ## My Vector Snake eating my contribution graph &nbsp;&nbsp;  🌱&nbsp; 👾
-![snake gif](https://github.com/tugbayalcin/tugbayalcin/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/furkanbass/furkanbass/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkanbass" alt="furkanbass" /></a> </p>
 
