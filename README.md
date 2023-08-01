@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 <p> &nbsp; </p> 
 <p> &nbsp; </p>
 
-<p align="justify"> <h3>       Frank Bas - Automation Test Engineer </h3> </p>
+<p align="justify"> <h3>       Furkan Bas - Automation Test Engineer </h3> </p>
 <p align="justify">   </p>
 
 
