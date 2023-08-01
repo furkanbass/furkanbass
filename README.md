@@ -2,8 +2,8 @@
 <p> &nbsp; </p>
 
 - 👋 Hi, I’m @furkanbass
-- 🌱 I’m currently learning Mobile Automation Testing.
-- 💞️ I’m looking to collaborate on Health, Finance and Software Engineering projects.
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate on Software Development projects.
 - 💬 Ask me about **Git-Github, Java, JDBC, Selenium, SDLC, STLC, Java Lambda, SQL, Cucumber**
 - 📫 How to reach me ffrankbas@gmail.com
 
