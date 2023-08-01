@@ -1,3 +1,6 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanbass&label=Profile%20views&color=0e75b6&style=flat" alt="furkanbass" /> </p>
+<p> &nbsp; </p>
+
 - 👋 Hi, I’m @furkanbass
 - 🌱 I’m currently learning Mobile Automation Testing.
 - 💞️ I’m looking to collaborate on Health, Finance and Software Engineering projects.
@@ -17,10 +20,12 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center"> Hi Alien 👨‍💻 </h1>
 <h2 align="center"> Welcome To My Coding World 🙌 </h2>
 <p> &nbsp; </p>
-
-## My Vector Snake eating my contribution graph &nbsp;&nbsp;  🌱&nbsp; 👾
-
+<!-- ## My Vector Snake eating my contribution graph &nbsp;&nbsp;  🌱&nbsp; 👾 
 ![snake gif](https://github.com/furkanbass/furkanbass/blob/output/github-contribution-grid-snake.gif)
+-->
+
+
+
 
 
 
@@ -44,8 +49,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanbass&label=Profile%20views&color=0e75b6&style=flat" alt="furkanbass" /> </p>
-<p> &nbsp; </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanbass&show_icons=true&locale=en&layout=compact" alt="furkanbass" /></p>
@@ -66,12 +70,21 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="https://linkedin.com/in/frankbass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frankbass" height="30" width="40" </a>
 	<a href ="https://www.hackerrank.com/furkanbas0626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="furkanbas0626" height="30" width="40"</a>
+		<a href="https://leetcode.com/happy819/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryan" height="30" width="40" /></a>
 </p>
 <p> &nbsp; </p>  <span> </span>
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+	<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+		</a> 
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+		</a> 
+	  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="40" height="40"/> </a> 
 	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 	</a> 
@@ -86,12 +99,7 @@ You can click the Preview link to take a look at your changes.
 		<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 		</a> 
-		<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-		</a> 
-		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-		</a> 
+		  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongodb" width="40" height="40"/> </a> 
 		<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
 			<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
 		</a> 
